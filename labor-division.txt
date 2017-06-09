@@ -1,0 +1,11 @@
+labor-division.txt
+CS 230 S17 Final Project
+Julia Klugherz, Andjela Stojkovic, Sara Vannah
+
+1. Sara - I wrote the ToDoList class, the underlying class that interacts with the GUI. 
+I also wrote the SchedulePanel. 
+
+2. Andjela - I wrote the Quotes class, WelcomePanel, InputTasks with Julia and assisted with the writing of MotivatePanel.
+
+3. Julia - I wrote the Task class, the InputTasks panel, wrote most of the MotivatePanel,
+ and edited Quotes so that its methods could be used in MotivatePanel.

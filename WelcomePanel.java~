@@ -1,0 +1,36 @@
+/************************************************************************
+  * WelcomePanel.java
+  * Represents the first panel of our GUI.
+  * Sara Vannah, Julia Klugherz, Andjela Stojkovic
+  ************************************************************************/
+
+
+import java.awt.*;
+import java.awt.Dimension;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.event.*;
+
+class WelcomePanel extends JPanel {
+  private JLabel welcome;
+  private JLabel next;
+  
+  public WelcomePanel() {
+    setLayout(new BorderLayout());
+    Font font1 = new Font("Impact", Font.PLAIN, 50);
+    
+    //welcome label
+    String s = "Welcome to My Very Own GUI Life Coach!\n";
+    welcome = new JLabel(s, JLabel.CENTER);
+    add(welcome, BorderLayout.NORTH);
+    
+    //doge
+    JLabel picLabel = new JLabel(new ImageIcon("doge.jpg"));
+    add(picLabel, BorderLayout.CENTER);
+    
+    welcome.setFont(font1);
+    setBackground(new Color(176, 205, 252));
+
+  }
+
+}
