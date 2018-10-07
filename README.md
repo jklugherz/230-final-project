@@ -1,2 +1,2 @@
 # 230-final-project
-Read My Very Own GUI Life Coach.pdf
+<object data="My Very Own GUI Life Coach.pdf" type="application/pdf" width="700px" height="700px" />
