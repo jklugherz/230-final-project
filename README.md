@@ -1,3 +1,4 @@
 # 230-final-project
- <embed src-“My Very Own GUI Life Coach.pdf” width=”600” height=”500”> </embed>
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=My Very Own GUI Life Coach.pdf" width="500" height="375">
       
